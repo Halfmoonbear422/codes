@@ -1,3 +1,8 @@
+'''
+Solved! on Dec 29 2021
+https://www.acmicpc.net/problem/1737
+'''
+
 from collections import deque
 from math import pi
 n = int(input())
